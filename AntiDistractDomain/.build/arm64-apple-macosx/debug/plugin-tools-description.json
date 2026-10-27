@@ -1,0 +1,775 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.xctest/Contents/MacOS/AntiDistractDomainPackageTests",
+      "packagePath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain",
+      "productName" : "AntiDistractDomainPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.AntiDistractDomain-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/sources",
+      "importPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/AntiDistractState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/AppGroupConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/BlockSchedule.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/EditLock.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/GrowthConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/ProtectedHours.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/ProtectedTimeRecorder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/StateStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/TimeOfDay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/TreeGrowth.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/Weekday.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/WindowStatus.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AntiDistractDomain",
+      "moduleOutputPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules/AntiDistractDomain.swiftmodule",
+      "objects" : [
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AntiDistractState.swift.o",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AppGroupConfiguration.swift.o",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/BlockSchedule.swift.o",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/EditLock.swift.o",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/GrowthConfiguration.swift.o",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedHours.swift.o",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedTimeRecorder.swift.o",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/StateStore.swift.o",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TimeOfDay.swift.o",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TreeGrowth.swift.o",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/Weekday.swift.o",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/WindowStatus.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/include/AntiDistractDomain-Swift.h",
+        "-swift-version",
+        "5",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "antidistractdomain"
+      ],
+      "outputFileMapPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AntiDistractState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AppGroupConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/BlockSchedule.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/EditLock.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/GrowthConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedHours.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedTimeRecorder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/StateStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TimeOfDay.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TreeGrowth.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/Weekday.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/WindowStatus.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules/AntiDistractDomain.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/AntiDistractState.swift",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/AppGroupConfiguration.swift",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/BlockSchedule.swift",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/EditLock.swift",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/GrowthConfiguration.swift",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/ProtectedHours.swift",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/ProtectedTimeRecorder.swift",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/StateStore.swift",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/TimeOfDay.swift",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/TreeGrowth.swift",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/Weekday.swift",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/WindowStatus.swift"
+      ],
+      "tempsPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.AntiDistractDomainPackageTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/sources",
+      "importPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules/AntiDistractDomainTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AntiDistractDomainPackageTests",
+      "moduleOutputPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules/AntiDistractDomainPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/include/AntiDistractDomainPackageTests-Swift.h",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "antidistractdomain"
+      ],
+      "outputFileMapPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules/AntiDistractDomainPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.AntiDistractDomainTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/sources",
+      "importPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Tests/AntiDistractDomainTests/ProbeTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules/AntiDistractDomain.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AntiDistractDomainTests",
+      "moduleOutputPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules/AntiDistractDomainTests.swiftmodule",
+      "objects" : [
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/ProbeTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "antidistractdomain"
+      ],
+      "outputFileMapPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/ProbeTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules/AntiDistractDomainTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Tests/AntiDistractDomainTests/ProbeTests.swift"
+      ],
+      "tempsPath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "AntiDistractDomain" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "AntiDistractDomain",
+      "-package-name",
+      "antidistractdomain",
+      "-c",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/AntiDistractState.swift",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/AppGroupConfiguration.swift",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/BlockSchedule.swift",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/EditLock.swift",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/GrowthConfiguration.swift",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/ProtectedHours.swift",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/ProtectedTimeRecorder.swift",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/StateStore.swift",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/TimeOfDay.swift",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/TreeGrowth.swift",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/Weekday.swift",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/WindowStatus.swift",
+      "-I",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/include/AntiDistractDomain-Swift.h",
+      "-swift-version",
+      "5",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "antidistractdomain",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "AntiDistractDomainPackageTests" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "AntiDistractDomainPackageTests",
+      "-package-name",
+      "antidistractdomain",
+      "-c",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/include/AntiDistractDomainPackageTests-Swift.h",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "antidistractdomain",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "AntiDistractDomainTests" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "AntiDistractDomainTests",
+      "-package-name",
+      "antidistractdomain",
+      "-c",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Tests/AntiDistractDomainTests/ProbeTests.swift",
+      "-I",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "antidistractdomain",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "AntiDistractDomain" : [
+
+    ],
+    "AntiDistractDomainPackageTests" : [
+      "AntiDistractDomainTests",
+      "AntiDistractDomain"
+    ],
+    "AntiDistractDomainTests" : [
+      "AntiDistractDomain"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/AntiDistractState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/AppGroupConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/BlockSchedule.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/EditLock.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/GrowthConfiguration.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/ProtectedHours.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/ProtectedTimeRecorder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/StateStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/TimeOfDay.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/TreeGrowth.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/Weekday.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/WindowStatus.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/sources"
+    },
+    "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/sources"
+    },
+    "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AntiDistractState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AppGroupConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/BlockSchedule.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/EditLock.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/GrowthConfiguration.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedHours.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedTimeRecorder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/StateStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TimeOfDay.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TreeGrowth.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/Weekday.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/WindowStatus.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/ProbeTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Tests/AntiDistractDomainTests/ProbeTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/sources"
+    },
+    "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

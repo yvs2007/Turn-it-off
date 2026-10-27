@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/master.swiftdeps"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Tests/AntiDistractDomainTests/ProbeTests.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/ProbeTests.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/ProbeTests.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/ProbeTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/ProbeTests.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainTests.build/ProbeTests.dia"
+  }
+}

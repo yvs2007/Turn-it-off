@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/master.swiftdeps"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/runner.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomainPackageTests.build/runner.dia"
+  }
+}

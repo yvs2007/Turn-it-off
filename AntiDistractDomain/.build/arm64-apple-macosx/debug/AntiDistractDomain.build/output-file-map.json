@@ -1,0 +1,89 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/master.swiftdeps"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/AntiDistractState.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AntiDistractState.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AntiDistractState.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AntiDistractState~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AntiDistractState.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AntiDistractState.dia"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/AppGroupConfiguration.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AppGroupConfiguration.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AppGroupConfiguration.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AppGroupConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AppGroupConfiguration.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/AppGroupConfiguration.dia"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/BlockSchedule.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/BlockSchedule.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/BlockSchedule.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/BlockSchedule~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/BlockSchedule.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/BlockSchedule.dia"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/EditLock.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/EditLock.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/EditLock.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/EditLock~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/EditLock.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/EditLock.dia"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/GrowthConfiguration.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/GrowthConfiguration.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/GrowthConfiguration.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/GrowthConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/GrowthConfiguration.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/GrowthConfiguration.dia"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/ProtectedHours.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedHours.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedHours.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedHours~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedHours.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedHours.dia"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/ProtectedTimeRecorder.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedTimeRecorder.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedTimeRecorder.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedTimeRecorder~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedTimeRecorder.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/ProtectedTimeRecorder.dia"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/StateStore.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/StateStore.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/StateStore.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/StateStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/StateStore.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/StateStore.dia"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/TimeOfDay.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TimeOfDay.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TimeOfDay.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TimeOfDay~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TimeOfDay.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TimeOfDay.dia"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/TreeGrowth.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TreeGrowth.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TreeGrowth.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TreeGrowth~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TreeGrowth.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/TreeGrowth.dia"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/Weekday.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/Weekday.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/Weekday.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/Weekday~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/Weekday.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/Weekday.dia"
+  },
+  "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/Sources/AntiDistractDomain/WindowStatus.swift": {
+    "dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/WindowStatus.d",
+    "object": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/WindowStatus.swift.o",
+    "swiftmodule": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/WindowStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/WindowStatus.swiftdeps",
+    "diagnostics": "/Users/yvs2007/Desktop/turn it off/Packages/AntiDistractDomain/.build/arm64-apple-macosx/debug/AntiDistractDomain.build/WindowStatus.dia"
+  }
+}
